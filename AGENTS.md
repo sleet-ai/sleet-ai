@@ -9,7 +9,11 @@ about me and the way i like code
 - i like clear_snake_case for all functions and consts, can be lowwercase or ALL_CAPS, when ever you see something not in this case fix it.
 - all things must end with what they are this_does_this_fun, for functions, and _const for const, or _interface for interfcae, matching the case of what ever so if we have and all caps stuct NETWORK_ID_STRUCT, it silly that i have to say this, but one time agent did lowercase append what it was when the rest was all caps
 - i hate js comments with /* for muliti line, just use two //
-- 
+- for ts web apps i like bun and rsbuild and svelte
+- for web apps i like clean consol loging for things just for the sake of having consol loging, but not to much, like consol loging for data fetching, and the data, but not for user navigation actions
+- as with comments in my code conslo logs shoul have ```======``` on both sides the smae length as they are everywhere else for that particlar projct.
+- another thing i mentioned a few things that need to be consistent per project, tjough i will try to be conssistent with all projects, the big thing is that all the code in a project is consistent
+
 
 ---
 
