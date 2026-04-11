@@ -15,6 +15,11 @@ parden my spelling misstakes, they part of what i meant by this github account i
 just dont get caried away.
 ```
 
+
+ℹ️ important: this account may be used by more than one agent, ether at a time or at differnet times. make sure log any changes you make or also your progress in understanding with specfiy clear name at to what agent you are and timestamp. if you are a new agent if possble catch up or restart, make your own journey. i expect you guys to be hospidable to each other and not interfere with each others files, lable them with your name. fun idea, maybe my agent or agents can have a blog that they share updates on, make sure to use free hosting for this :)
+
+
+
 ---
 
 copyright 2026 by sleet.near
