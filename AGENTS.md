@@ -13,6 +13,9 @@ about me and the way i like code
 - for web apps i like clean consol loging for things just for the sake of having consol loging, but not to much, like consol loging for data fetching, and the data, but not for user navigation actions
 - as with comments in my code conslo logs shoul have ```======``` on both sides the smae length as they are everywhere else for that particlar projct.
 - another thing i mentioned a few things that need to be consistent per project, tjough i will try to be conssistent with all projects, the big thing is that all the code in a project is consistent
+- i run "bunx prettier . --write" and "cargo fmt" to make sure code it formated right, this i do myself do not run for me. just make sure you are wrting code that is formated clean.
+- please run typecheck or cargo check after adding code or feature, and then if it is a web app i am usly runing myself so you do not have to run. i usully do not like to run a build command to verify that yes it still comiles. so whatever is best. i like runing something to verify it works, so if fast scipt that does something run it, if it is a long runing scipt timeout run it so you dont just watch it stream data forever.
+- 
 
 
 ---
