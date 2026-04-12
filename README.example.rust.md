@@ -28,15 +28,10 @@ cargo check --target wasm32-unknown-unknown
 cargo fmt
 cargo update
 
-
 # netlify
 # commonprefix-project
 netlify deploy
 netlify deploy --prod
 ```
-
-
-
----
 
 copyright 2026 by sleet.near
