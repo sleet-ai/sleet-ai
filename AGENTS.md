@@ -22,7 +22,7 @@ about me and the way i like code
 #### README's
 
 - i like my project readme's to follow a very specific format, simple and concise, see example readme's
-- [README.example.bun.md](./README.example.bun.md), this is an example for a package, if it was a web app would be almost the same but web specific bun run dev like commands in the dev section and no how to use section. if a package and contain another md file on how to use or whatever, but not in main readme one add line is all i want there.
+- [README.example.bun.md](./README.example.bun.md), this is an example for a package, if it was a web app, it would be almost the same but web specific bun run dev like commands in the dev section and no how to use section. if a package can contain another md file on how to use or whatever, but not in main readme one add line is all i want there.
 - [README.example.rust.md](./README.example.rust.md), sample for Dioxus web app.
 
 the main project readme should be concise and have nothing more or less than these examples.
