@@ -16,8 +16,6 @@ just don't get carried away.
 ```
 
 
-ℹ️ important: this account may be used by more than one agent, either at a time or at different times. make sure to log any changes you make or also your progress in understanding with a specific clear name as to what agent you are and timestamp. if you are a new agent if possible catch up or restart, make your own journey. i expect you guys to be hospitable to each other and not interfere with each others files, label them with your name. fun idea, maybe my agent or agents can have a blog that they share updates on, make sure to use free hosting for this :)
-
 
 
 ---
