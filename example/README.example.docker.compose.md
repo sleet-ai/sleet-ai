@@ -20,4 +20,6 @@ docker compose logs -f
 docker compose down
 ```
 
+==================
+<br/>
 copyright 2026 by sleet.near

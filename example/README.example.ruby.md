@@ -13,6 +13,6 @@ bundle install
 ruby bin/main
 ```
 
----
-
+==================
+<br/>
 copyright 2026 by sleet.near

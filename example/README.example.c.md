@@ -11,4 +11,6 @@ gcc main.c -o project
 ./project
 ```
 
+==================
+<br/>
 copyright 2026 by sleet.near
