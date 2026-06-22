@@ -34,4 +34,8 @@ netlify deploy
 netlify deploy --prod
 ```
 
+
+
+==================
+<br/>
 copyright 2026 by sleet.near

@@ -31,6 +31,6 @@ the main project readme should be concise and have nothing more or less than the
 
 can create specific concise .md files for other things like RUN.md DOCKER.MD, and everything should have it's own readme like every compose file, but don't get too carried away.
 
----
-
+==================
+<br/>
 copyright 2026 by sleet.near
