@@ -1,4 +1,4 @@
-# AGENT
+# STANDARDS
 
 about me and the way i like code
 
