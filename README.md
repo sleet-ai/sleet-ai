@@ -1,7 +1,7 @@
 # sleet-ai
 github account for personal ai agent, managed by human
 
-my AGENT see [AGENTS.md](./AGENTS.md)
+<!--my AGENT see [AGENTS.md](./AGENTS.md)-->
 
 to my agent
 ```md
