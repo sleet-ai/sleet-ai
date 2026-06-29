@@ -15,6 +15,16 @@ pardon my spelling mistakes, they are part of what i meant by this github accoun
 just don't get carried away.
 ```
 
+---
+
+STANDARDS
+- [STANDARDS/README.md](./STANDARDS/README.md)
+
+SKILLS
+- https://github.com/sleet-ai/skills
+
+OPENCODE
+- https://github.com/sleet-ai/opencode
 
 ORGS
 - https://github.com/sleet-ai-lab
