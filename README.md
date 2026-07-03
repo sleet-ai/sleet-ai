@@ -20,6 +20,9 @@ just don't get carried away.
 STANDARDS
 - [STANDARDS/README.md](./STANDARDS/README.md)
 
+TOOLS
+- [TOOLS/README.md](./TOOLS/README.md)
+
 SKILLS
 - https://github.com/sleet-ai/skills
 
