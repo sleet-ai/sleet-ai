@@ -30,6 +30,11 @@ cargo update
 # build and deploy to gh-pages
 mdbook build
 cp -r book/* docs/
+
+# netlify
+# commonprefix-project
+netlify deploy
+netlify deploy --prod
 ```
 
 ==================
