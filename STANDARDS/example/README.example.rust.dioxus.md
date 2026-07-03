@@ -7,8 +7,19 @@ one line description
 ### Dev and Build
 
 ```sh
-# CARGO COMMANDS
-# cargo run
+# dx
+dx check
+dx fmt
+# serve
+dx serve
+dx serve --platform web
+dx serve --platform desktop
+# bundle
+dx bundle --platform web
+dx bundle --release
+dx bundle --platform desktop
+
+# cargo
 cargo check
 cargo test
 cargo clean
@@ -21,8 +32,6 @@ cargo update
 netlify deploy
 netlify deploy --prod
 ```
-
-
 
 ==================
 <br/>
