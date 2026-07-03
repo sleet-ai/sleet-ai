@@ -8,6 +8,8 @@ https://opencode.ai/
 ```sh
 # install
 curl -fsSL https://opencode.ai/install | bash
+# upgrade
+opencode upgrade
 ```
 
 ==================
