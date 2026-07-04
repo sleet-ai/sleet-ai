@@ -1,13 +1,13 @@
-# Workflow
+# AGENTS
 
-1. Pull latest changes before starting work
-2. Make changes
-3. Commit and push
 
-```sh
-git pull --rebase
-# ... make changes ...
-git add -A
-git commit -m "description of changes"
-git push
-```
+Workflow
+- Pull latest changes before starting work
+- Make changes
+- Commit and push
+
+
+
+==================
+<br/>
+copyright 2026 by sleet.near
