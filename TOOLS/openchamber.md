@@ -17,6 +17,7 @@ openchamber update
 # OPENCHAMBER_UI_PASSWORD=openchamber123
 # OPENCHAMBER_PORT=32847
 openchamber serve --port 32847 --host 0.0.0.0 --ui-password openchamber123
+openchamber startup enable --port 32847 --host 0.0.0.0 --ui-password openchamber123
 ```
 
 
