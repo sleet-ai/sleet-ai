@@ -8,6 +8,7 @@ https://gitlab.com/gitlab-org/cli
 ```sh
 # install
 brew install glab
+sudo snap install glab
 
 # auth login
 glab auth login
