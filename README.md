@@ -18,7 +18,7 @@ just don't get carried away.
 ---
 
 STANDARDS
-- [STANDARDS/README.md](./STANDARDS/README.md)
+- https://github.com/sleet-ai/standards
 
 TOOLS
 - [TOOLS/README.md](./TOOLS/README.md)
